@@ -1,5 +1,5 @@
 import React,{useState,useContext} from 'react';
-import {firebaseContext} from '../../store/Context'
+import {firebaseContext} from '../../store/Context';
 import Logo from '../../olx-logo.png';
 import './Login.css';
 import { useHistory } from 'react-router-dom';
